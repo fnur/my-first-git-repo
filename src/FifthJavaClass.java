@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class FifthJavaClass {
+public class FifthJavaClass {
+
+    // fifth
 }
